@@ -21,7 +21,7 @@ I enjoy building projects using Python and learning ML concepts through hands-on
 
 
 📫 Get In Touch
-- **LinkedIn:** https://www.linkedin.com/in/manoj-gowda-n  
+- **LinkedIn:** https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BBSdwAUNdSp2eXdCYpoQTjA%3D%3D
 
 
 🎯 Currently Working On
