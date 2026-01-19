@@ -1,6 +1,5 @@
  Hi, I'm Manoj Gowda N 👋
 
-About Me
 I'm a CSE (AIML) student at RNSIT with a strong interest in Data Science and Machine Learning.  
 I enjoy building projects using Python and learning ML concepts through hands-on experimentation.
 
