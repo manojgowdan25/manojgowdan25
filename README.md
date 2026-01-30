@@ -6,7 +6,7 @@ I enjoy building projects using Python and learning ML concepts through hands-on
 
 
 🛠️ Tech Stack
-- **Languages:** Python  
+- **Languages:** Python ,Java 
 - **ML & Data:** Machine Learning (basics), Data Analysis  
 - **Tools:** Git, GitHub, VS Code  
 - **Web:** HTML, CSS  
